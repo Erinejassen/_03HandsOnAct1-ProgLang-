@@ -40,7 +40,7 @@ namespace _03HandsOnAct1
             }
             else 
             {
-                Console.WriteLine("\n no secondary colors");
+                Console.WriteLine("\n One or Either of them is not a primary color");
             }
         }
     }
